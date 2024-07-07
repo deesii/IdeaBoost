@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS idea_boost;
+CREATE DATABASE idea_boost;
